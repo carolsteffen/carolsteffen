@@ -10,6 +10,6 @@ ____________________________________________
 
 - 😄 Pronouns: She, Her.
 
-- ⚡ Fun fact: I love so much animals, movies about psychology, music, dance and art. I like to see at the sky and write some words.
+- ⚡ Fun fact: I love so much animals, movies about psychology, music, dance and art. I like to look at the sky and write some words.
 
 <img src="https://img.shields.io/badge/-Javascript-ff69b4" /> <img src="https://img.shields.io/badge/-CSS-blue" /> <img src="https://img.shields.io/badge/-HTML-yellowgreen" /> <img src="https://img.shields.io/badge/-Java-orange" /> <img src="https://img.shields.io/badge/-c-purple" /> 
