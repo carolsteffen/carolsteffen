@@ -2,7 +2,7 @@
 
 ### <samp>Hey, guys! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></samp>
 
-<samp> :peach: My name is **Caroline**, I was born in 1998, that is, **I'm a 98's kids**. :scream_cat: </samp>
+<samp> :peach: My name is **Caroline**, I was born in 1998, that is, <br> **I'm a 98's kids**. :scream_cat: </samp>
 <samp>An Information Systems student at FDB POA. </samp>
 
 - 🌱 I’m currently learning about JS and Node.
