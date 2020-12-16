@@ -3,7 +3,7 @@
 ### <samp>Hey, guys! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></samp>
 
 <samp> :peach: My name is **Caroline**, I was born in 1998, that is, <br> **I'm a 98's kids**. :scream_cat: </samp>
-<samp>An Information Systems student at FDB POA. I'm newbie in <br> terms of programming and I'm interested in UX and design. </samp>
+<samp>An Information Systems student at FDB POA. I'm newbie in terms of programming and <br>I'm interested in UX and design. </samp>
 ____________________________________________
 
 - 🌱 I’m currently learning about JS and Node.
