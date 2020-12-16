@@ -1,4 +1,4 @@
-<img align="right" width="40%" src="https://tenor.com/view/black-cat-studio-ghibli-kiki-jiji-food-gif-7422881.gif" />
+<img align="right" width="40%" src="https://media.giphy.com/media/12vMdxeCwbW2kVVWwF/giphy.gif" />
 
 ### <samp>Hey, guys! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></samp>
 
