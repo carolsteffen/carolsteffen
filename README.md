@@ -2,8 +2,8 @@
 
 ### <samp>Hey, guys! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></samp>
 
-<samp> :peach: My name is **Caroline**, I was born in 1998, that is, <br> **I'm a 98's kids**. :scream_cat: </samp>
-<samp>An Information Systems student at FDB POA. I'm newbie in terms of programming and I'm <br> interested in UX and design. </samp>
+<samp> :peach: My name is **Caroline**, I was born in 1998, that is, **I'm a <br> 98's kids**. :scream_cat: </samp>
+<samp>An Information Systems student at FDB POA. I'm newbie in terms of programming and I'm interested <br>in UX and design. </samp>
 ____________________________________________
 
 - 🌱 I’m currently learning about JS and Node.
