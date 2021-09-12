@@ -13,3 +13,4 @@ ____________________________________________
 - ⚡ Fun fact: I love so much animals, movies about psychology, music, dance and art. I like to look at the sky and write some words.
 
 <img src="https://img.shields.io/badge/-JavaScript-black?style=rounded&logo=javascript" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=rounded&logo=css3" /> <img src="https://img.shields.io/badge/-HTML5-yellowgreen?style=rounded&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-red?style=rounded&logo=java" /> <img src="https://img.shields.io/badge/-purple?style=rounded&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/-Nodejs-339933?style=rounded&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Reactjs-483d8b?style=rounded&logo=React.js&logoColor=white" />
