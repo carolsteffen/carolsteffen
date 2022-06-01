@@ -1,6 +1,6 @@
 <img align="right" width="40%" src="https://media.giphy.com/media/12vMdxeCwbW2kVVWwF/giphy.gif" />
 
-### <samp>Hey, guys! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></samp>
+### <samp>Hey, guys! 🤘 </samp>
 
 <samp> :peach: My name is **Caroline**, **I'm a 98's kids**. </samp> <br/>
 <samp>An Information Systems student at FDB POA. </samp>
