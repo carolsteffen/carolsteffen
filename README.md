@@ -2,11 +2,11 @@
 
 ### <samp>Hey, guys! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></samp>
 
-<samp> :peach: My name is **Caroline**, I was born in 1998, that is, **I'm a 98's kids**. :scream_cat: </samp> <br/>
-<samp>An Information Systems student at FDB POA. I'm newbie in terms of programming and I'm interested in front-end, UX and design. </samp>
+<samp> :peach: My name is **Caroline**, **I'm a 98's kids**. </samp> <br/>
+<samp>An Information Systems student at FDB POA. </samp>
 ____________________________________________
 
-- 🌱 I’m currently learning about TS, Reactjs and tests. In a near future, I want to study and work with React Native too, but now I'm focus to study/work with web development and learn more about Reactjs.
+- 🌱 I’m currently learning about TS, React and tests. In a near future, I want to study and work with React Native too, but now I'm focus to study/work with web development and learn more about React.
 
 - 😄 Pronouns: She, Her.
 
