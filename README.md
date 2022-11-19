@@ -15,3 +15,5 @@ development, learn more about React and UX.
 - ⚡ Fun fact: I love writing and reading fantasy histories.
 
 <img src="https://img.shields.io/badge/-JavaScript-black?style=rounded&logo=javascript" /> <img src="https://img.shields.io/badge/-TypeScript-grey?style=rounded&logo=typescript" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=rounded&logo=css3" /> <img src="https://img.shields.io/badge/-HTML5-yellowgreen?style=rounded&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/-Nodejs-339933?style=rounded&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Reactjs-483d8b?style=rounded&logo=React&logoColor=white" />
+
+<img src="./octocat-1668896811780.png" width="200px"/>
