@@ -6,7 +6,7 @@
 <samp>An Information Systems student at FDB POA. </samp>
 ____________________________________________
 
-- 🌱 I’m currently learning about Typescript, tests with <br/> Testing Library and Jest and understanding better the concepts of OOP. <br/>
+- 🌱 I’m currently learning about Typescript, tests with <br/> Testing Library/Jest and understanding better the concepts of OOP. <br/>
 In a near future, I want to study and work with mobile <br/>too, but now I'm focus to study/work web <br/>
 development, learn more about React and UX.
 
